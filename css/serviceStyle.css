@@ -1,0 +1,54 @@
+body{
+    background-color: gray;
+}
+
+.header{
+    background-color: mediumseagreen;
+    height: auto;
+    width: 100%;
+    padding: 5px 0px; 
+    display: flex;
+    gap: 20px;
+}
+
+.backgroungImage, img{
+
+    height: auto;
+    width: 100%;
+}
+
+.text{
+    background-color: floralwhite;
+    height: auto;
+    width: 100%;
+    padding: 30px 0px;
+    text-align: justify;
+    margin: -3px auto ;
+    max-width: auto;
+}
+
+.midtext{
+    background-color: darkseagreen;
+    height: auto;
+    width: 100%;
+    padding: 30px 0px;
+    text-align: justify;
+    margin: -3px auto ;
+    max-width: auto;
+}
+
+.footer{
+    background-color: mediumseagreen;
+    color: white;
+    height: auto;
+    width: 100%;
+    margin: -3px auto ;
+    padding: 10px 0px; 
+    text-align: center;
+
+    img{
+        height: 40px;
+        width: 40px;
+    }
+}
+
